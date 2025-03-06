@@ -58,4 +58,5 @@ The **Timesheet Application for OJT** is a web-based system designed to track an
 This project is licensed under the MIT License.
 
 ## Contact
-For any inquiries, please contact [Your Email or GitHub].
+For any inquiries, please contact charlsbrent2027@gmail.com
+
