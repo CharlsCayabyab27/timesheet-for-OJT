@@ -1,0 +1,9 @@
+Flask
+reportlab
+pandas
+Jinja2
+gunicorn
+waitress
+flasksocketio
+numpy
+scipy
